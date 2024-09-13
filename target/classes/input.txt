@@ -1,0 +1,3 @@
+Hello world! This is a test file.
+I will be testing for for duplicate words. This file contains several words, including some duplicate words.
+This is the file that will be tested for duplicate words.
